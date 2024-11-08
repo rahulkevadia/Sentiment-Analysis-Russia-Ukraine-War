@@ -1,0 +1,16 @@
+numpy
+pandas
+seaborn
+matplotlib
+nltk
+dostoevsky
+googletrans
+wordcloud
+torch
+transformers
+urllib3
+huggingface_hub
+openai
+gensim
+tensorflow
+kagglehub
